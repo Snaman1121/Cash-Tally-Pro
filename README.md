@@ -20,4 +20,4 @@
 ## 🚀 Installation
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/YourUsername/Cash-Tally-Pro.git](https://github.com/YourUsername/Cash-Tally-Pro.git)
+   git clone [https://github.com/Snaman1121/Cash-Tally-Pro.git](https://github.com/Snaman1121/Cash-Tally-Pro.git)
